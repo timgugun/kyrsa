@@ -5,27 +5,28 @@
 }
 
 body {
-	background-color:#363534;
+	background-color:rgba(123, 117, 117, 0.714);
 
 	
 }
 
 header {
-	color:#d4691e;
+	color:#8d0505b8;
 }
+
 li {
-	color:#d4691e;
+	color:#8d0505b8;
 	display:inline-block;
 	margin: 15px;
 	font-size: 24pt;
 	font-weight:600;
 }
 a:hover {
-	color: red;
+	color:black;
 	
 }
 
 a, a:active, a:visited {
-	
-	color: #d4691e;
+	color:rgba(105, 3, 3, 0.57);
+	text-decoration: none;
 }
